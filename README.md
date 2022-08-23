@@ -3,4 +3,4 @@ technologies Used are :
 Html
 CSS
 
-pages number : 1 
+pages number : 1. 
