@@ -1,0 +1,609 @@
+[1mdiff --git a/1.png b/1.png[m
+[1mdeleted file mode 100644[m
+[1mindex 5758d3f..0000000[m
+Binary files a/1.png and /dev/null differ
+[1mdiff --git a/2.png b/2.png[m
+[1mdeleted file mode 100644[m
+[1mindex 51c8b2e..0000000[m
+Binary files a/2.png and /dev/null differ
+[1mdiff --git a/614a2fbaaf92eb5b7a83b6df_studio-illustration.svg b/614a2fbaaf92eb5b7a83b6df_studio-illustration.svg[m
+[1mdeleted file mode 100644[m
+[1mindex 6256dbd..0000000[m
+[1m--- a/614a2fbaaf92eb5b7a83b6df_studio-illustration.svg[m
+[1m+++ /dev/null[m
+[36m@@ -1,36 +0,0 @@[m
+[31m-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="473" fill="none" viewBox="0 0 400 473">[m
+[31m-  <g filter="url(#filter0_d)">[m
+[31m-    <rect width="323" height="407" x="39" y="32" fill="#fff" rx="22"/>[m
+[31m-  </g>[m
+[31m-  <rect width="155" height="48" y="196" fill="#16EBAE" rx="24"/>[m
+[31m-  <rect width="155" height="48" x="245" y="116" fill="#5B53FF" rx="24"/>[m
+[31m-  <rect width="51" height="8" x="341" y="168" fill="#8C87FF" opacity=".9" rx="4"/>[m
+[31m-  <rect width="51" height="8" x="341" y="384" fill="#8C87FF" opacity=".9" rx="4"/>[m
+[31m-  <rect width="75" height="8" x="8" y="304" fill="#73F3CE" opacity=".9" rx="4"/>[m
+[31m-  <rect width="220" height="48" y="252" fill="#16EBAE" rx="24"/>[m
+[31m-  <rect width="220" height="48" x="180" y="332" fill="#5B53FF" rx="24"/>[m
+[31m-  <circle cx="376" cy="140" r="20" fill="#fff" opacity=".3"/>[m
+[31m-  <circle cx="376" cy="356" r="20" fill="#fff" opacity=".3"/>[m
+[31m-  <circle cx="25" cy="220" r="20" fill="#B5F8E4"/>[m
+[31m-  <circle cx="25" cy="276" r="20" fill="#B5F8E4"/>[m
+[31m-  <rect width="75" height="16" x="53" y="212" fill="#fff" opacity=".9" rx="8"/>[m
+[31m-  <rect width="75" height="16" x="277" y="132" fill="#fff" opacity=".9" rx="8"/>[m
+[31m-  <rect width="139" height="12" x="53" y="262" fill="#fff" opacity=".9" rx="6"/>[m
+[31m-  <rect width="137" height="12" x="211" y="342" fill="#fff" opacity=".9" rx="6"/>[m
+[31m-  <rect width="75" height="12" x="53" y="278" fill="#fff" opacity=".9" rx="6"/>[m
+[31m-  <rect width="51" height="12" x="297" y="358" fill="#fff" opacity=".9" rx="6"/>[m
+[31m-  <path fill="#16EBAE" d="M25 211a4 4 0 100 8 4 4 0 000-8zm-6 4a6 6 0 1112 0 6 6 0 01-12 0zm2 10a3 3 0 00-3 3 1 1 0 01-2 0 5 5 0 015-5h8a5 5 0 015 5 1 1 0 01-2 0 3 3 0 00-3-3h-8zM25 268a4 4 0 100 8 4 4 0 000-8zm-6 4a6 6 0 1112 0 6 6 0 01-12 0zm2 10a3 3 0 00-3 3 1 1 0 01-2 0 5 5 0 015-5h8a5 5 0 015 5 1 1 0 01-2 0 3 3 0 00-3-3h-8z"/>[m
+[31m-  <path fill="#5B53FF" d="M376 132a4 4 0 100 8 4 4 0 000-8zm-6 4a6 6 0 1112 0 6 6 0 01-12 0zm2 10a3 3 0 00-3 3 1 1 0 01-2 0 5 5 0 015-5h8a5 5 0 015 5 1 1 0 01-2 0 3 3 0 00-3-3h-8zM376 348a4 4 0 100 8 4 4 0 000-8zm-6 4a6 6 0 1112 0 6 6 0 01-12 0zm2 10a3 3 0 00-3 3 1 1 0 01-2 0 5 5 0 015-5h8a5 5 0 015 5 1 1 0 01-2 0 3 3 0 00-3-3h-8z"/>[m
+[31m-  <defs>[m
+[31m-    <filter id="filter0_d" width="353" height="441" x="24" y="32" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">[m
+[31m-      <feFlood flood-opacity="0" result="BackgroundImageFix"/>[m
+[31m-      <feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>[m
+[31m-      <feMorphology in="SourceAlpha" radius="15" result="effect1_dropShadow"/>[m
+[31m-      <feOffset dy="19"/>[m
+[31m-      <feGaussianBlur stdDeviation="15"/>[m
+[31m-      <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>[m
+[31m-      <feBlend in2="BackgroundImageFix" result="effect1_dropShadow"/>[m
+[31m-      <feBlend in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>[m
+[31m-    </filter>[m
+[31m-  </defs>[m
+[31m-</svg>[m
+[1mdiff --git a/README.md b/README.md[m
+[1mindex 710aed3..3a72f15 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -1,6 +1,2 @@[m
+[31m-This is a Simulation for "pttrns website"[m
+[31m-technologies Used are :[m
+[31m-Html[m
+[31m-CSS[m
+[31m-[m
+[31m-pages number : 1. [m
+[32m+[m[32m# Pttrns-Website[m
+[32m+[m[32mMy first Html-CSS Project[m
+[1mdiff --git a/index.html b/index.html[m
+[1mdeleted file mode 100644[m
+[1mindex 9de6173..0000000[m
+[1m--- a/index.html[m
+[1m+++ /dev/null[m
+[36m@@ -1,105 +0,0 @@[m
+[31m-<html>[m
+[31m-    <head>[m
+[31m-        <title>web design1</title>[m
+[31m-        <link rel="stylesheet" href="style.css">[m
+[31m-        <meta charset="UTF-8">[m
+[31m-        <meta name="viewport" content="width=device-width, initial-scale=1.0">[m
+[31m-    </head>[m
+[31m-    <body>[m
+[31m-        <div class="first-page">[m
+[31m-[m
+[31m-            <button class="button1">Star 3-days free trial</button>[m
+[31m-            <button class="button2">Log in</button>[m
+[31m-            <div class="web-name">pttrns</div>[m
+[31m-            <p class="web-disc">Stay ahead of the curve <span class="line-break">and become a better</span> <span class="gradiant-text">[m
+[31m-                interface designer.</span></p>[m
+[31m-            <p class="disc-disc">With a <span class="bold">Pttrns</span> membership, gain access to thousands of[m
+[31m-                 <span class="line-break">curated mobile design patterns, get online advice, and</span> connect with other[m
+[31m-                 designers from all over the world.</p>[m
+[31m-[m
+[31m-            <img class="first-img" src="1.png" alt="pttrns-pic">[m
+[31m-[m
+[31m-        </div>[m
+[31m-[m
+[31m-        <div class="second-page">[m
+[31m-[m
+[31m-            <p class="para-center">Used daily by individuals, teams, and companies of all sizes</p>[m
+[31m-            <div class="round-rec">Google Face-book Instagram linkedin Shopify pinterest Uper yahoo Gmail Google-play[m
+[31m-                 App-store Microsopht Html CSS</div>[m
+[31m-[m
+[31m-        </div>[m
+[31m-[m
+[31m-[m
+[31m-[m
+[31m-        <div class="third-page">[m
+[31m-[m
+[31m-            <div class="heading1">What you get.</div>[m
+[31m-            <div class="heading2">UX and UI patterns </div>[m
+[31m-            <p class="para-left">Learn and follow industry best practices that <span class="line-break"> can be applied to your app to help ensure </span> the best user experience possible.</p>[m
+[31m-            <div class="heading2-2">App database</div>[m
+[31m-            <p class="para-left2">Save hours of research time with Pttrns <span class="line-break">curated collection of the best in-production</span> app interfaces and screenshots.</p>[m
+[31m-            <div class="heading2-3">Favorites and Collections</div>[m
+[31m-            <p class="para-left3">Stay organized, store and reference all your <span class="line-break"> best research and inspirational finds with</span>  Favorites or create a Collection for <span class="line-break">each project you are working on.</span></p>[m
+[31m-            <div class="heading2-4">Design guides & teardowns</div>[m
+[31m-            <p class="para-left4">Dive deeper into the specifics of strategy,<span class="line-break">tone and craft, and the principles behind</span>  successful apps and interfaces.</p>[m
+[31m-            <div class="heading2-5">Pttrns Studio</div>[m
+[31m-            <p class="para-left5">Interact with other designers from all over <span class="line-break">the world who, like you, want to talk</span>  candidly about design, receive feedback on <span class="line-break">their work, and get their questions answered</span>  from people who walk in their shoes.</p>[m
+[31m-            <img src="2.png" alt="img2" class="second-img">[m
+[31m-[m
+[31m-        </div>[m
+[31m-[m
+[31m-        <div class="fourth-page">[m
+[31m-[m
+[31m-            <img src="614a2fbaaf92eb5b7a83b6df_studio-illustration.svg"[m
+[31m-            alt="img3" class="last-image">[m
+[31m-            <div class="high-bold">Where the best <span class="line-break"> designers go for </span> inspiration  and  <span class="line-break">  community </span></div>[m
+[31m-            <p class="para-mid">Over 40,000 designers trust Pttrns as one of their top sources for <span class="line-break"> production UI design research and inspiration. Improve your ideation and </span>concept generation skills while saving hours of research time.</p>[m
+[31m-[m
+[31m-[m
+[31m-        </div>[m
+[31m-[m
+[31m-        <div class="fifth-page">[m
+[31m-[m
+[31m-            <div class="high-bold2">Level up <span class="line-break">your craft</span> and career <span class="line-break">with Pttrns.</span></div>[m
+[31m-            <p class="para">Join designers from <span class="line-break">across the globe focused</span> on continual improvement <span class="line-break"> and inspiration you can use.</span></p>[m
+[31m-            <p class="para2">Choose the right plan for you.</p>[m
+[31m-[m
+[31m-            <div class="q-plan">[m
+[31m-                <div class="rounded-rec2">Quarterly plan</div>[m
+[31m-                <div class="price">$27</div>[m
+[31m-                <div class="discription">$9 per month <span class="br">Billed every 3 months</span></div>[m
+[31m-                <ul class="list1">[m
+[31m-                  <li>Save hours of research time</li>[m
+[31m-                  <li>Store your favorites for future reference</li>[m
+[31m-                  <li>Access to 7k+ patterns... and counting</li>[m
+[31m-                </ul>[m
+[31m-                <button class="free-trial">Star 3-days free trial</button>[m
+[31m-            </div>[m
+[31m-[m
+[31m-            <div class="y-plan">[m
+[31m-                <div class="rounded-rec2">yearly plan</div>[m
+[31m-                <div class="price">$72</div>[m
+[31m-                <div class="discription">$6 per month <span class="br">Billed per one year</span></div>[m
+[31m-                <ul class="list1">[m
+[31m-                  <li>Save hours of research time</li>[m
+[31m-                  <li>Store your favorites for future reference</li>[m
+[31m-                  <li>Access to 7k+ patterns... and counting</li>[m
+[31m-                </ul>[m
+[31m-                <button class="free-trial">Star 3-days free trial</button>[m
+[31m-            </div>[m
+[31m-[m
+[31m-            <div class="m-plan">[m
+[31m-                <h5 class="rounded-rec3">Monthly plan</h5>[m
+[31m-                <h1 class="price2">$12 <span class="small">per month</span></h1>[m
+[31m-                <h2 class="discription">Rather just pay for 1 month at a time?</h2>[m
+[31m-                <button class="free-trial">Star 3-days free trial</button>[m
+[31m-            </div>[m
+[31m-[m
+[31m-[m
+[31m-        </div>[m
+[31m-[m
+[31m-[m
+[31m-        </div>[m
+[31m-[m
+[31m-    </body>[m
+[31m-</html>[m
+[1mdiff --git a/style.css b/style.css[m
+[1mdeleted file mode 100644[m
+[1mindex da74d3e..0000000[m
+[1m--- a/style.css[m
+[1m+++ /dev/null[m
+[36m@@ -1,429 +0,0 @@[m
+[31m-body{[m
+[31m-    background-color: #eee;[m
+[31m-  }[m
+[31m-[m
+[31m-  .first-page{[m
+[31m-    display: grid;[m
+[31m-    background-color: white;[m
+[31m-    grid-template-columns:100px repeat(11, auto);[m
+[31m-    grid-template-rows: 70px repeat(9, auto);[m
+[31m-    z-index: -2;[m
+[31m-[m
+[31m-[m
+[31m-  }[m
+[31m-[m
+[31m-  button {[m
+[31m-    border: none;[m
+[31m-    color: black;[m
+[31m-    padding: 16px 32px;[m
+[31m-    text-align: center;[m
+[31m-    text-decoration: none;[m
+[31m-    display: inline-block;[m
+[31m-    font-size: 16px;[m
+[31m-    margin: 10px 4px;[m
+[31m-    transition-duration: 0.4s;[m
+[31m-    cursor: pointer;[m
+[31m-[m
+[31m-  }[m
+[31m-[m
+[31m-  .button1{[m
+[31m-    grid-area: button1 ;[m
+[31m-    font-weight: bold;[m
+[31m-    font-family: sans-serif;[m
+[31m-    background-color: black;[m
+[31m-    color: white;[m
+[31m-    border: 2px solid black;[m
+[31m-    border-radius: 9px;[m
+[31m-    grid-row-start: 1;[m
+[31m-    grid-column-start: 10;[m
+[31m-    grid-row-end: 2;[m
+[31m-    grid-column-end: 12;[m
+[31m-[m
+[31m-[m
+[31m-  }[m
+[31m-[m
+[31m-  .button1:hover {[m
+[31m-    background-color: white;[m
+[31m-    color: black;[m
+[31m-    border:  2px solid #E0E0E0;[m
+[31m-  }[m
+[31m-[m
+[31m-  .button2 {[m
+[31m-    grid-area: button2 ;[m
+[31m-    font-weight: bold;[m
+[31m-    font-family: sans-serif;[m
+[31m-    background-color: white;[m
+[31m-    color: black;[m
+[31m-    border: 2px solid #E0E0E0;[m
+[31m-    border-radius: 9px;[m
+[31m-    grid-area: 1/12/2/13;[m
+[31m-   }[m
+[31m-[m
+[31m-  .button2:hover {[m
+[31m-    background-color: black;[m
+[31m-    color: white;[m
+[31m-  }[m
+[31m-[m
+[31m-  .web-name{[m
+[31m-  grid-area: 2/2/2/3;[m
+[31m-  font-size: 40px;[m
+[31m-  font-weight: bold;[m
+[31m-  font-family: sans-serif;[m
+[31m-  color: #FF4136[m
+[31m-  }[m
+[31m-[m
+[31m-  .web-disc{[m
+[31m-    font-weight: bold;[m
+[31m-    font-family: sans-serif;[m
+[31m-    color: #111111;[m
+[31m-    font-size: 70px;[m
+[31m-    grid-area: 3/2/5/9;[m
+[31m-    margin-bottom: 0px;[m
+[31m-    z-index: 1;[m
+[31m-[m
+[31m-    }[m
+[31m-[m
+[31m-    .gradiant-text{[m
+[31m-      background: linear-gradient(to right, #f32170,[m
+[31m-                     #ff6b08, #cf23cf, #eedd44);[m
+[31m-             -webkit-text-fill-color: transparent;[m
+[31m-             -webkit-background-clip: text;[m
+[31m-      font-size: 70px;[m
+[31m-[m
+[31m-    }[m
+[31m-[m
+[31m-    .line-break{[m
+[31m-      display: block;[m
+[31m-[m
+[31m-    }[m
+[31m-[m
+[31m-    .disc-disc{[m
+[31m-      font-family: sans-serif;[m
+[31m-      font-size: 20px;[m
+[31m-      grid-area: 5/2/6/4;[m
+[31m-[m
+[31m-    }[m
+[31m-[m
+[31m-    .bold{[m
+[31m-      font-weight: bold;[m
+[31m-    }[m
+[31m-[m
+[31m-    .first-img{[m
+[31m-[m
+[31m-      overflow: hidden;[m
+[31m-      z-index: 0;[m
+[31m-      width: 900px;[m
+[31m-      height: 1000px;[m
+[31m-      grid-area: 3/7/10/13;[m
+[31m-[m
+[31m-     }[m
+[31m-[m
+[31m-     .second-page{[m
+[31m-[m
+[31m-      display: grid;[m
+[31m-      grid-template-columns:100px repeat(11, auto);[m
+[31m-      grid-template-rows: 70px repeat(9, auto);[m
+[31m-[m
+[31m-     }[m
+[31m-[m
+[31m-     .para-center{[m
+[31m-[m
+[31m-      font-weight: bold;[m
+[31m-      font-family: sans-serif;[m
+[31m-      font-size: 20px;[m
+[31m-      z-index: 1;[m
+[31m-      grid-area: 3/5/4/13;[m
+[31m-[m
+[31m-    }[m
+[31m-[m
+[31m-    .round-rec{[m
+[31m-      background-color: white;[m
+[31m-      color: black;[m
+[31m-      height: 110px;[m
+[31m-      width: 1195px;[m
+[31m-      border: 1px solid white;[m
+[31m-      border-radius: 20px;[m
+[31m-      padding: 20px;[m
+[31m-      line-height: 3;[m
+[31m-      font-size: 20px;[m
+[31m-      font-weight: bold;[m
+[31m-      font-family: sans-serif;[m
+[31m-      word-spacing: 90px;[m
+[31m-      grid-area: 4/3/10/10;[m
+[31m-[m
+[31m-[m
+[31m-    }[m
+[31m-[m
+[31m-    .third-page{[m
+[31m-[m
+[31m-      display: grid;[m
+[31m-      grid-template-columns:100px repeat(11, auto);[m
+[31m-      grid-template-rows: 70px repeat(15, auto);[m
+[31m-      background-color: white;[m
+[31m-      margin-top: 50PX;[m
+[31m-[m
+[31m-    }[m
+[31m-[m
+[31m-[m
+[31m-  .heading1{[m
+[31m-  font-size: 50px;[m
+[31m-  font-weight: bold;[m
+[31m-  font-family: sans-serif;[m
+[31m-[m
+[31m-  grid-area: 2/2/2/10;[m
+[31m-}[m
+[31m-[m
+[31m-.heading2{[m
+[31m-  font-size: 30px;[m
+[31m-  font-weight: bold;[m
+[31m-  font-family: serif;[m
+[31m-[m
+[31m-  grid-area: 4/2/5/10;}[m
+[31m-[m
+[31m-.heading2-2{[m
+[31m-  font-size: 30px;[m
+[31m-  font-weight: bold;[m
+[31m-  font-family: serif;[m
+[31m-  grid-area: 6/2/6/3;[m
+[31m-[m
+[31m-}[m
+[31m-[m
+[31m-.heading2-3{[m
+[31m-  font-size: 30px;[m
+[31m-  font-weight: bold;[m
+[31m-  font-family: serif;[m
+[31m-  grid-area: 8/2/8/3;[m
+[31m-[m
+[31m-}[m
+[31m-[m
+[31m-.heading2-4{[m
+[31m-  font-size: 30px;[m
+[31m-  font-weight: bold;[m
+[31m-  font-family: serif;[m
+[31m-  grid-area: 10/2/10/2;[m
+[31m-[m
+[31m-}[m
+[31m-[m
+[31m-.heading2-5{[m
+[31m-  font-size: 30px;[m
+[31m-  font-weight: bold;[m
+[31m-  font-family: serif;[m
+[31m-  grid-area: 12/2/12/2;[m
+[31m-[m
+[31m-}[m
+[31m-[m
+[31m-.para-left{[m
+[31m-  font-size: 15px;[m
+[31m-  font-family: sans-serif;[m
+[31m-  grid-area: 5/2/6/6;[m
+[31m-}[m
+[31m-[m
+[31m-.para-left2{[m
+[31m-  font-size: 15px;[m
+[31m-  font-family: sans-serif;[m
+[31m-  grid-area: 7/2/7/3;[m
+[31m-[m
+[31m-}[m
+[31m-[m
+[31m-.para-left3{[m
+[31m-  font-size: 15px;[m
+[31m-  font-family: sans-serif;[m
+[31m-  grid-area: 9/2/9/3;[m
+[31m-[m
+[31m-}[m
+[31m-[m
+[31m-.para-left4{[m
+[31m-  font-size: 15px;[m
+[31m-  font-family: sans-serif;[m
+[31m-  grid-area: 11/2/11/2;[m
+[31m-[m
+[31m-}[m
+[31m-[m
+[31m-.para-left5{[m
+[31m-  font-size: 15px;[m
+[31m-  font-family: sans-serif;[m
+[31m-  grid-area: 13/2/13/2;[m
+[31m-[m
+[31m-}[m
+[31m-[m
+[31m-.second-img{[m
+[31m-[m
+[31m-  width: 1000px;[m
+[31m-  height: 700;[m
+[31m-  grid-area: 3/7/16/13;[m
+[31m-[m
+[31m-}[m
+[31m-[m
+[31m-.fourth-page{[m
+[31m-[m
+[31m-  display: grid;[m
+[31m-  grid-template-columns:100px repeat(11, auto);[m
+[31m-  grid-template-rows: 70px repeat(15, auto);[m
+[31m-}[m
+[31m-[m
+[31m-[m
+[31m-.last-image{[m
+[31m-[m
+[31m-  grid-area: 3/3/10/10;[m
+[31m-[m
+[31m-}[m
+[31m-[m
+[31m-[m
+[31m-.para-mid{[m
+[31m-[m
+[31m-  grid-area: 6/9/8/11;[m
+[31m-  font-size: 20;[m
+[31m-[m
+[31m-}[m
+[31m-[m
+[31m-.fifth-page{[m
+[31m-[m
+[31m-  display: grid;[m
+[31m-  grid-template-columns:100px repeat(11, auto);[m
+[31m-  grid-template-rows: 70px repeat(15, auto);[m
+[31m-  background-color: #111111;[m
+[31m-  color: white;[m
+[31m-  height: 900px;[m
+[31m-  margin-left: 50px;[m
+[31m-  width: 90%;[m
+[31m-  border: 2px solid #E0E0E0;[m
+[31m-  border-radius: 50px;[m
+[31m-}[m
+[31m-[m
+[31m-.high-bold{[m
+[31m-[m
+[31m-  font-weight: bold;[m
+[31m-  grid-area: 4/9/4/10;[m
+[31m-  font-size: 45px;[m
+[31m-[m
+[31m-[m
+[31m-}[m
+[31m-[m
+[31m-.high-bold2{[m
+[31m-[m
+[31m-  font-weight: bold;[m
+[31m-  grid-area: 3/2/4/10;[m
+[31m-  font-size: 45px;[m
+[31m-[m
+[31m-}[m
+[31m-[m
+[31m-.para{[m
+[31m-[m
+[31m-font-size: 25px;[m
+[31m-grid-area: 4/2/8/4;[m
+[31m-[m
+[31m-}[m
+[31m-[m
+[31m-.para2{[m
+[31m-[m
+[31m-  grid-area: 7/2/10/3;[m
+[31m-  font-size: 20px;[m
+[31m-[m
+[31m-}[m
+[31m-[m
+[31m-.rounded-rec2{[m
+[31m-[m
+[31m-  background-color: #8D87FF;[m
+[31m-  border: 2px solid #8D87FF;[m
+[31m-  border-radius: 5px;[m
+[31m-  width: 110px;[m
+[31m-  margin-top: 15px;[m
+[31m-[m
+[31m-}[m
+[31m-[m
+[31m-.price{[m
+[31m-  font-size: 50px;[m
+[31m-  font-weight: bold;[m
+[31m-  position: relative;[m
+[31m-  top: 10px;[m
+[31m-}[m
+[31m-[m
+[31m-[m
+[31m-.discription{[m
+[31m-  font-size: 20px;[m
+[31m-  position: relative;[m
+[31m-  top: 19px;[m
+[31m-}[m
+[31m-[m
+[31m-[m
+[31m-.list1{[m
+[31m-  font-size: 20px;[m
+[31m-  position: relative;[m
+[31m-  top: 23px;[m
+[31m-}[m
+[31m-[m
+[31m-.q-plan{[m
+[31m-  padding-left: 30px;[m
+[31m-  background-image: linear-gradient(to bottom right, blue,#5B53FF);[m
+[31m-  color: white;[m
+[31m-  border: 2px solid #5B53FF;[m
+[31m-  border-radius: 15px;[m
+[31m-  width: 320px;[m
+[31m-  height: 400px;[m
+[31m-  font-family: sans-serif;[m
+[31m-[m
+[31m-  grid-area: 2/11/10/10;[m
+[31m-  margin-right: 40px;[m
+[31m-}[m
+[31m-[m
+[31m-.free-trial{[m
+[31m-  padding-left: 15px;[m
+[31m-  font-weight: bold;[m
+[31m-  font-family: sans-serif;[m
+[31m-  background-color: black;[m
+[31m-  color: white;[m
+[31m-  border: 2px solid black;[m
+[31m-  border-radius: 25px;[m
+[31m-  position: relative;[m
+[31m-  top: 30px;[m
+[31m-}[m
+[31m-[m
+[31m-[m
+[31m-.free-trial:hover {[m
+[31m-  background-color: white;[m
+[31m-  color: black;[m
+[31m-  border:  2px solid #E0E0E0;[m
+[31m-[m
+[31m-}[m
+[31m-[m
+[31m-.y-plan{[m
+[31m-  padding-left: 30px;[m
+[31m-  background-image: linear-gradient(to bottom right, #A14CAA,#F14246);[m
+[31m-  color: white;[m
+[31m-  border: 2px solid white;[m
+[31m-  border-radius: 15px;[m
+[31m-  width: 320px;[m
+[31m-  height: 400px;[m
+[31m-  font-family: sans-serif;[m
+[31m-  grid-area: 2/11/11/30;[m
+[31m-[m
+[31m-[m
+[31m-}[m
+[31m-[m
+[31m-.m-plan{[m
+[31m-  padding-left: 30px;[m
+[31m-  background-image: linear-gradient(to bottom right, grey, white);  color: white;[m
+[31m-  border: 2px solid #333333;[m
+[31m-  border-radius: 15px;[m
+[31m-  width: 725px;[m
+[31m-  height: 300px;[m
+[31m-  font-family: sans-serif;[m
+[31m-  grid-area: 8/10/15/15;[m
+[31m-}[m
+[31m-[m
+[31m-.rounded-rec3{[m
+[31m-  background-color: #717171 ;[m
+[31m-  border: 2px solid #717171;[m
+[31m-  border-radius: 5px;[m
+[31m-  width: 150px;[m
+[31m-}[m
+[31m-[m
+[31m-.price2{[m
+[31m-  font-size: 40px;[m
+[31m-  font-weight: bold;[m
+[31m-}[m
+[31m-[m
+[31m-.small{[m
+[31m-  font-size: 20px;[m
+[31m-  color: grey;[m
+[31m-}[m
